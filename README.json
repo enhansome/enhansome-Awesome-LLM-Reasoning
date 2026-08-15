@@ -33,7 +33,7 @@
             "last_commit": "2026-08-11T13:57:47Z",
             "owner": "SeekingDream",
             "repo": "Static-to-Dynamic-LLMEval",
-            "stars": 500
+            "stars": 498
           }
         }
       ],
@@ -368,7 +368,7 @@
             "last_commit": "2025-01-16T20:02:00Z",
             "owner": "princeton-nlp",
             "repo": "tree-of-thought-llm",
-            "stars": 6046
+            "stars": 6047
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2024-03-13T12:25:02Z",
             "owner": "amazon-science",
             "repo": "auto-cot",
-            "stars": 2043
+            "stars": 2045
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2024-06-12T13:50:10Z",
             "owner": "amazon-science",
             "repo": "mm-cot",
-            "stars": 3987
+            "stars": 3986
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261
+            "stars": 11264
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27264
+            "stars": 27266
           }
         },
         {
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:55:46.616Z",
+    "last_updated": "2026-08-15T22:54:10.188Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Reasoning",
