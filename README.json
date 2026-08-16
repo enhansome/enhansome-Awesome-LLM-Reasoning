@@ -368,7 +368,7 @@
             "last_commit": "2025-01-16T20:02:00Z",
             "owner": "princeton-nlp",
             "repo": "tree-of-thought-llm",
-            "stars": 6047
+            "stars": 6048
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2024-06-13T20:31:59Z",
             "owner": "teacherpeterpan",
             "repo": "Logic-LLM",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -662,8 +662,8 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-09T15:47:38Z",
-            "owner": "zwq2018",
+            "last_commit": "2026-08-16T20:39:43Z",
+            "owner": "ZJU-OmniAI",
             "repo": "embodied_reasoner",
             "stars": 205
           }
@@ -758,10 +758,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38549
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34013
+            "stars": 34014
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11264
+            "stars": 11263
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27266
+            "stars": 27269
           }
         },
         {
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:54:10.188Z",
+    "last_updated": "2026-08-16T22:53:22.243Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Reasoning",
