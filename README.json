@@ -87,7 +87,7 @@
             "last_commit": "2025-05-21T06:44:22Z",
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-06-17T09:47:50Z",
             "owner": "ATH-MaaS",
             "repo": "Marco-o1",
-            "stars": 1537
+            "stars": 1538
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2024-03-13T12:25:02Z",
             "owner": "amazon-science",
             "repo": "auto-cot",
-            "stars": 2045
+            "stars": 2044
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2024-06-13T20:31:59Z",
             "owner": "teacherpeterpan",
             "repo": "Logic-LLM",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -584,7 +584,7 @@
             "last_commit": "2026-06-02T07:16:14Z",
             "owner": "karthikv792",
             "repo": "LLMs-Planning",
-            "stars": 472
+            "stars": 471
           }
         },
         {
@@ -662,9 +662,9 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T20:39:43Z",
+            "last_commit": "2026-08-17T13:23:33Z",
             "owner": "ZJU-OmniAI",
-            "repo": "embodied_reasoner",
+            "repo": "Embodied-Omni",
             "stars": 205
           }
         },
@@ -713,7 +713,7 @@
             "last_commit": "2025-08-05T12:27:41Z",
             "owner": "Yushi-Hu",
             "repo": "VisualSketchpad",
-            "stars": 288
+            "stars": 289
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38549
+            "stars": 38568
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34014
+            "stars": 34012
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2025-03-07T12:53:24Z",
             "owner": "itsnamgyu",
             "repo": "reasoning-teacher",
-            "stars": 345
+            "stars": 344
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27269
+            "stars": 27268
           }
         },
         {
@@ -1108,7 +1108,7 @@
             "last_commit": "2025-05-21T06:44:22Z",
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:53:22.243Z",
+    "last_updated": "2026-08-17T22:55:36.056Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Reasoning",
