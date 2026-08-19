@@ -395,7 +395,7 @@
                 "last_commit": "2025-01-16T20:02:00Z",
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6048
+                "stars": 6049
               }
             },
             {
@@ -810,10 +810,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38580
               }
             },
             {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11263
+            "stars": 11262
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27271
+            "stars": 27272
           }
         },
         {
@@ -1204,7 +1204,7 @@
             "last_commit": "2022-05-30T04:26:16Z",
             "owner": "floodsung",
             "repo": "Deep-Reasoning-Papers",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:08:01.678Z",
+    "last_updated": "2026-08-19T22:55:54.664Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
