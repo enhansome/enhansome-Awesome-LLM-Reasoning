@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-22T00:49:11Z",
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1018
+                "stars": 1019
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2023-11-13T08:44:02Z",
                 "owner": "jeffhj",
                 "repo": "LM-reasoning",
-                "stars": 571
+                "stars": 570
               }
             }
           ],
@@ -395,7 +395,7 @@
                 "last_commit": "2025-01-16T20:02:00Z",
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6049
+                "stars": 6051
               }
             },
             {
@@ -440,7 +440,7 @@
                 "last_commit": "2023-06-30T12:57:39Z",
                 "owner": "reasoning-machines",
                 "repo": "pal",
-                "stars": 526
+                "stars": 525
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2024-06-12T01:32:57Z",
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 277
+                "stars": 275
               }
             },
             {
@@ -672,7 +672,7 @@
                 "last_commit": "2022-11-07T22:09:29Z",
                 "owner": "sunlab-osu",
                 "repo": "IterPrompt",
-                "stars": 19
+                "stars": 18
               }
             }
           ],
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-18T16:25:21Z",
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 215
+                "stars": 218
               }
             },
             {
@@ -813,7 +813,7 @@
                 "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38580
+                "stars": 38590
               }
             },
             {
@@ -828,7 +828,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34010
+                "stars": 34008
               }
             },
             {
@@ -888,7 +888,7 @@
                 "last_commit": "2024-01-31T21:37:28Z",
                 "owner": "microsoft",
                 "repo": "MM-REACT",
-                "stars": 967
+                "stars": 966
               }
             },
             {
@@ -925,7 +925,7 @@
                 "last_commit": "2025-09-12T08:26:02Z",
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1423
+                "stars": 1424
               }
             },
             {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11262
+            "stars": 11260
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-06-25T16:23:28Z",
             "owner": "facebookresearch",
             "repo": "RAM",
-            "stars": 383
+            "stars": 382
           }
         },
         {
@@ -1174,7 +1174,7 @@
             "last_commit": "2023-11-13T08:44:02Z",
             "owner": "jeffhj",
             "repo": "LM-reasoning",
-            "stars": 571
+            "stars": 570
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:55:54.664Z",
+    "last_updated": "2026-08-20T22:59:06.377Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
