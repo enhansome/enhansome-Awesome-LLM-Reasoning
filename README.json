@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-22T00:49:11Z",
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1019
+                "stars": 1022
               }
             },
             {
@@ -238,7 +238,7 @@
                 "last_commit": "2025-01-20T02:31:13Z",
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1346
+                "stars": 1347
               }
             },
             {
@@ -395,7 +395,7 @@
                 "last_commit": "2025-01-16T20:02:00Z",
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6051
+                "stars": 6052
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2024-06-12T01:32:57Z",
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 275
+                "stars": 276
               }
             },
             {
@@ -627,7 +627,7 @@
                 "last_commit": "2026-06-02T07:16:14Z",
                 "owner": "karthikv792",
                 "repo": "LLMs-Planning",
-                "stars": 471
+                "stars": 472
               }
             },
             {
@@ -706,7 +706,7 @@
                 "archived": false,
                 "id": 952589852,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:25:21Z",
+                "last_commit": "2026-08-21T08:21:51Z",
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
                 "stars": 218
@@ -810,10 +810,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:48:11Z",
+                "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38590
+                "stars": 38593
               }
             },
             {
@@ -828,7 +828,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34008
+                "stars": 34009
               }
             },
             {
@@ -843,7 +843,7 @@
                 "last_commit": "2024-06-12T13:50:10Z",
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3985
+                "stars": 3984
               }
             },
             {
@@ -903,7 +903,7 @@
                 "last_commit": "2024-08-26T10:00:38Z",
                 "owner": "allenai",
                 "repo": "visprog",
-                "stars": 774
+                "stars": 773
               }
             }
           ],
@@ -925,7 +925,7 @@
                 "last_commit": "2025-09-12T08:26:02Z",
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1424
+                "stars": 1425
               }
             },
             {
@@ -1018,7 +1018,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11260
+            "stars": 11261
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27272
+            "stars": 27274
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:59:06.377Z",
+    "last_updated": "2026-08-21T22:55:50.332Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
