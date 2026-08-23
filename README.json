@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-22T09:53:15Z",
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 218
+                "stars": 221
               }
             },
             {
@@ -746,7 +746,7 @@
                 "last_commit": "2025-12-12T02:30:57Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "LLaVA-CoT",
-                "stars": 2133
+                "stars": 2132
               }
             },
             {
@@ -813,7 +813,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38599
+                "stars": 38607
               }
             },
             {
@@ -1129,7 +1129,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27274
+            "stars": 27275
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:54:26.792Z",
+    "last_updated": "2026-08-23T22:54:09.929Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
