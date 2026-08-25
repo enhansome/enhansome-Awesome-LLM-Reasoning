@@ -223,7 +223,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92037
+                "stars": 92035
               }
             }
           ],
@@ -320,7 +320,7 @@
                 "last_commit": "2024-05-30T08:15:03Z",
                 "owner": "AssassinWS",
                 "repo": "LLM-TAMP",
-                "stars": 98
+                "stars": 99
               }
             },
             {
@@ -835,7 +835,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38613
+                "stars": 38614
               }
             },
             {
@@ -880,7 +880,7 @@
                 "last_commit": "2024-01-29T21:29:37Z",
                 "owner": "cvlab-columbia",
                 "repo": "viper",
-                "stars": 1715
+                "stars": 1716
               }
             },
             {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261
+            "stars": 11260
           }
         },
         {
@@ -1151,7 +1151,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27281
+            "stars": 27282
           }
         },
         {
@@ -1264,7 +1264,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:57:16.265Z",
+    "last_updated": "2026-08-25T05:50:36.228Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
