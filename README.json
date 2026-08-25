@@ -171,7 +171,7 @@
                 "last_commit": "2024-06-25T20:16:12Z",
                 "owner": "suzgunmirac",
                 "repo": "BIG-Bench-Hard",
-                "stars": 569
+                "stars": 570
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92035
+                "stars": 92043
               }
             }
           ],
@@ -365,7 +365,7 @@
                 "last_commit": "2023-07-17T20:06:42Z",
                 "owner": "anthropics",
                 "repo": "DecompositionFaithfulnessPaper",
-                "stars": 33
+                "stars": 32
               }
             },
             {
@@ -417,7 +417,7 @@
                 "last_commit": "2025-01-16T20:02:00Z",
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6052
+                "stars": 6054
               }
             },
             {
@@ -783,7 +783,7 @@
                 "last_commit": "2025-08-05T12:27:41Z",
                 "owner": "Yushi-Hu",
                 "repo": "VisualSketchpad",
-                "stars": 290
+                "stars": 291
               }
             },
             {
@@ -832,10 +832,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               }
             },
             {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11260
+            "stars": 11261
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2024-08-04T09:40:18Z",
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2774
+            "stars": 2775
           }
         },
         {
@@ -1151,7 +1151,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27282
+            "stars": 27283
           }
         },
         {
@@ -1166,7 +1166,7 @@
             "last_commit": "2023-10-05T04:47:20Z",
             "owner": "Timothyxxx",
             "repo": "Chain-of-ThoughtsPapers",
-            "stars": 2103
+            "stars": 2104
           }
         },
         {
@@ -1264,7 +1264,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:36.228Z",
+    "last_updated": "2026-08-25T22:58:59.773Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
