@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-22T00:49:11Z",
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1022
+                "stars": 1023
               }
             },
             {
@@ -171,7 +171,7 @@
                 "last_commit": "2024-06-25T20:16:12Z",
                 "owner": "suzgunmirac",
                 "repo": "BIG-Bench-Hard",
-                "stars": 570
+                "stars": 571
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92043
+                "stars": 92037
               }
             }
           ],
@@ -417,7 +417,7 @@
                 "last_commit": "2025-01-16T20:02:00Z",
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6054
+                "stars": 6057
               }
             },
             {
@@ -731,7 +731,7 @@
                 "last_commit": "2026-08-22T09:53:15Z",
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 223
+                "stars": 226
               }
             },
             {
@@ -832,10 +832,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-26T23:28:07Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38626
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34006
+                "stars": 34002
               }
             },
             {
@@ -895,7 +895,7 @@
                 "last_commit": "2023-12-23T03:36:42Z",
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1139
+                "stars": 1140
               }
             },
             {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261
+            "stars": 11262
           }
         },
         {
@@ -1085,7 +1085,7 @@
             "last_commit": "2023-04-11T07:34:23Z",
             "owner": "jina-ai",
             "repo": "agentchain",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -1151,7 +1151,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27283
+            "stars": 27288
           }
         },
         {
@@ -1264,7 +1264,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:58:59.773Z",
+    "last_updated": "2026-08-27T03:32:02.119Z",
     "original_repository": "atfortes/Awesome-LLM-Reasoning",
     "original_repository_id": 562071276,
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
