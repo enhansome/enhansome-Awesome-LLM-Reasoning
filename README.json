@@ -223,7 +223,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92037
+                "stars": 92038
               }
             }
           ],
@@ -260,7 +260,7 @@
                 "last_commit": "2025-01-20T02:31:13Z",
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1349
+                "stars": 1351
               }
             },
             {
@@ -462,7 +462,7 @@
                 "last_commit": "2023-06-30T12:57:39Z",
                 "owner": "reasoning-machines",
                 "repo": "pal",
-                "stars": 525
+                "stars": 526
               }
             },
             {
@@ -832,10 +832,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T23:28:07Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38626
+                "stars": 38630
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34002
+                "stars": 34001
               }
             },
             {
@@ -1040,7 +1040,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11262
+            "stars": 11261
           }
         },
         {
@@ -1151,7 +1151,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27288
+            "stars": 27293
           }
         },
         {
@@ -1264,9 +1264,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:32:02.119Z",
-    "original_repository": "atfortes/Awesome-LLM-Reasoning",
-    "original_repository_id": 562071276,
+    "last_updated": "2026-08-27T11:28:29.431Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 562071276,
+      "language": null,
+      "last_commit": "2026-04-20T00:57:27Z",
+      "owner": "atfortes",
+      "repo": "Awesome-LLM-Reasoning",
+      "stars": 3675
+    },
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Reasoning",
     "enhanced_repository_description": null,
