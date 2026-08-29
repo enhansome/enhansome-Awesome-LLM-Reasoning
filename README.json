@@ -401,7 +401,7 @@
                 "open_issues": 34,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038,
+                "stars": 92037,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:50:46.254Z",
+    "last_updated": "2026-08-29T04:18:41.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 26,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3677,
+      "stars": 3678,
       "topics": [
         "awesome",
         "chain-of-thought",
