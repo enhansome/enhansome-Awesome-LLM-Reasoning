@@ -12,12 +12,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey",
+                "homepage": "https://arxiv.org/abs/2503.12605",
                 "id": 933089475,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2026-05-22T00:49:11Z",
+                "open_issues": 2,
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1023
+                "stars": 1023,
+                "topics": [
+                  "chain-of-thought",
+                  "cot",
+                  "deepseek-r1",
+                  "instruction-tuning",
+                  "large-vision-language-model",
+                  "mcts",
+                  "mllm-reasoning",
+                  "multimodal",
+                  "multimodal-chain-of-thought",
+                  "multimodal-large-language-models",
+                  "openai-o1",
+                  "reasoning",
+                  "slow-thinking",
+                  "survey",
+                  "system-2"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -28,12 +49,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official GitHub repository of the paper \"Recent advances in large language model benchmarks against data contamination: From static to dynamic evaluation\"",
+                "homepage": "https://arxiv.org/abs/2502.17521",
                 "id": 936371491,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-11T13:57:47Z",
+                "open_issues": 0,
                 "owner": "SeekingDream",
                 "repo": "Static-to-Dynamic-LLMEval",
-                "stars": 498
+                "stars": 498,
+                "topics": [
+                  "benchmark",
+                  "dynamic-evaluation",
+                  "evaluation",
+                  "large-language-model",
+                  "llm",
+                  "llms",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -51,12 +85,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An awesome repository & A comprehensive survey on interpretability of LLM attention heads.",
+                "homepage": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00024-8",
                 "id": 823700612,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2025-03-02T10:35:09Z",
+                "open_issues": 4,
                 "owner": "IAAR-Shanghai",
                 "repo": "Awesome-Attention-Heads",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "attention-head-mining",
+                  "attention-mechanism",
+                  "awesome",
+                  "chain-of-thought",
+                  "circuit-analysis",
+                  "cognitive-neuroscience",
+                  "gpt",
+                  "interpretability",
+                  "large-language-models",
+                  "llm",
+                  "llm-reasoning",
+                  "machine-psychology",
+                  "research-paper",
+                  "survey",
+                  "transformer",
+                  "visualization-tools"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -67,12 +123,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore concepts like Self-Correct, Self-Refine, Self-Improve, Self-Contradict, Self-Play, and Self-Knowledge, alongside o1-like reasoning elevation🍓 and hallucination alleviation🍄.",
+                "homepage": "https://arxiv.org/abs/2407.14507",
                 "id": 808947743,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-12-07T09:28:26Z",
+                "open_issues": 0,
                 "owner": "IAAR-Shanghai",
                 "repo": "ICSFSurvey",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "attention-head",
+                  "chain-of-thought",
+                  "data-augmentation",
+                  "decoding",
+                  "hallucination",
+                  "internal-consistency",
+                  "knowledge-distillation",
+                  "large-language-model",
+                  "large-language-models",
+                  "preference-learning",
+                  "reasoning",
+                  "self-consistency",
+                  "self-correct",
+                  "self-correction",
+                  "self-feedback",
+                  "self-improvement",
+                  "self-refine"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -90,12 +169,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2023] Reasoning with Language Model Prompting: A Survey",
+                "homepage": null,
                 "id": 536490220,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-05-21T06:44:22Z",
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "Prompt4ReasoningPapers",
-                "stars": 1006
+                "stars": 1006,
+                "topics": [
+                  "arithmetic-reasoning",
+                  "artificial-intelligence",
+                  "awsome-list",
+                  "chain-of-thought",
+                  "chatgpt",
+                  "commonsense-reasoning",
+                  "datasets",
+                  "gpt-3",
+                  "language-models",
+                  "large-language-models",
+                  "llm",
+                  "logical-reasoning",
+                  "natural-language-processing",
+                  "nlp",
+                  "paper-list",
+                  "prompt",
+                  "prompt-engineering",
+                  "reasoning",
+                  "survey",
+                  "symbolic-reasoning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -106,12 +211,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a collection of papers and resources on Reasoning in Large Language Models.",
+                "homepage": null,
                 "id": 580204419,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-11-13T08:44:02Z",
+                "open_issues": 6,
                 "owner": "jeffhj",
                 "repo": "LM-reasoning",
-                "stars": 570
+                "stars": 570,
+                "topics": [
+                  "artificial-intelligence",
+                  "awesome-list",
+                  "chain-of-thought",
+                  "chatgpt",
+                  "deductive-reasoning",
+                  "gpt-3",
+                  "human-intelligence",
+                  "in-context-learning",
+                  "language-modeling",
+                  "language-models",
+                  "large-language-models",
+                  "llm",
+                  "natural-language-processing",
+                  "paper-list",
+                  "prompt-engineering",
+                  "prompt-learning",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -135,12 +263,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2025] Are Your LLMs Capable of Stable Reasoning?",
+                "homepage": "http://arxiv.org/abs/2412.13147",
                 "id": 904618956,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-05T03:13:10Z",
+                "open_issues": 2,
                 "owner": "open-compass",
                 "repo": "GPassK",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "large-language-model-evaluation",
+                  "reasoning-stability"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -151,12 +287,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2024] A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners",
+                "homepage": "https://arxiv.org/abs/2406.11050",
                 "id": 776563060,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-11T22:13:47Z",
+                "open_issues": 0,
                 "owner": "bowen-upenn",
                 "repo": "llm_token_bias",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "large-language-models",
+                  "llm",
+                  "llm-evaluation",
+                  "llm-reasoning",
+                  "logical-reasoning",
+                  "token-bias"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -174,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+                "homepage": "https://arxiv.org/abs/2210.09261",
                 "id": 552138582,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-25T20:16:12Z",
+                "open_issues": 11,
                 "owner": "suzgunmirac",
                 "repo": "BIG-Bench-Hard",
-                "stars": 571
+                "stars": 571,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -190,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 580276184,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-06-01T05:28:02Z",
+                "open_issues": 1,
                 "owner": "sunlab-osu",
                 "repo": "Understanding-CoT",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -206,12 +364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://arxiv.org/abs/2305.04388",
                 "id": 634329195,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-23T16:02:46Z",
+                "open_issues": 0,
                 "owner": "milesaturpin",
                 "repo": "cot-unfaithfulness",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -229,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 919443098,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
+                "open_issues": 34,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92041
+                "stars": 92038,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -252,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Large Reasoning Model for Real-World Solutions",
+                "homepage": null,
                 "id": 876601822,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T09:47:50Z",
+                "open_issues": 10,
                 "owner": "ATH-MaaS",
                 "repo": "Marco-o1",
-                "stars": 1538
+                "stars": 1538,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -268,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medical o1, Towards medical complex reasoning with LLMs",
+                "homepage": null,
                 "id": 906833146,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-20T02:31:13Z",
+                "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1352
+                "stars": 1352,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -284,12 +462,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024 Spotlight] Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models",
+                "homepage": "https://openreview.net/forum?id=ANO1i9JPtb",
                 "id": 811395738,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-28T11:56:05Z",
+                "open_issues": 14,
                 "owner": "YangLing0818",
                 "repo": "buffer-of-thought-llm",
-                "stars": 677
+                "stars": 677,
+                "topics": [
+                  "chain-of-thought-reasoning",
+                  "large-language-models",
+                  "llm-reasoning",
+                  "retrieval-augmented-generation"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -300,12 +488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the paper \"Active Prompting with Chain-of-Thought for Large Language Models\"",
+                "homepage": null,
                 "id": 605568167,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-07T07:43:19Z",
+                "open_issues": 1,
                 "owner": "shizhediao",
                 "repo": "active-prompt",
-                "stars": 249
+                "stars": 249,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -316,12 +509,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Reasoning Translation (DRT) Project",
+                "homepage": null,
                 "id": 907327039,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-01T13:53:58Z",
+                "open_issues": 4,
                 "owner": "krystalan",
                 "repo": "DRT",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "large-language-models",
+                  "literature-translation",
+                  "machine-translation",
+                  "reasoning-language-models",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -332,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning",
+                "homepage": "https://arxiv.org/abs/2403.11552",
                 "id": 773648884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-30T08:15:03Z",
+                "open_issues": 1,
                 "owner": "AssassinWS",
                 "repo": "LLM-TAMP",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -348,12 +557,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "About The corresponding code from our paper \" REFINER: Reasoning Feedback on Intermediate Representations\" (EACL 2024). Do not hesitate to open an issue if you run into any trouble!",
+                "homepage": null,
                 "id": 622628228,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-27T22:58:45Z",
+                "open_issues": 2,
                 "owner": "debjitpaul",
                 "repo": "refiner",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "few-shot-learning",
+                  "gpt-3-5-turbo",
+                  "natural-language-generation",
+                  "natural-language-processing",
+                  "reasoning",
+                  "reasoning-machine"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -364,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 25 main] Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model",
+                "homepage": null,
                 "id": 862721410,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-16T15:55:07Z",
+                "open_issues": 0,
                 "owner": "xiongsiheng",
                 "repo": "SWAP",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -380,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 664757008,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-17T20:06:42Z",
+                "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "DecompositionFaithfulnessPaper",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -396,12 +627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 824239488,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-27T03:12:46Z",
+                "open_issues": 0,
                 "owner": "ChengpengLi1003",
                 "repo": "DotaMath",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -412,12 +648,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of LoT paper: \"Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic\"",
+                "homepage": "https://arxiv.org/abs/2309.13339",
                 "id": 651872807,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-13T12:20:41Z",
+                "open_issues": 0,
                 "owner": "xf-zhao",
                 "repo": "LoT",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "chain-of-thought",
+                  "chain-of-thought-prompting",
+                  "chain-of-thought-reasoning",
+                  "chain-of-thoughts",
+                  "coling",
+                  "coling2024",
+                  "language",
+                  "language-model",
+                  "llm",
+                  "llms",
+                  "logic",
+                  "lot",
+                  "reasoning",
+                  "symbolic-logic",
+                  "symbolic-logic-reasoning",
+                  "zero-shot"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -435,12 +693,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+                "homepage": "https://arxiv.org/abs/2305.10601",
                 "id": 642099326,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-16T20:02:00Z",
+                "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6057
+                "stars": 6056,
+                "topics": [
+                  "large-language-models",
+                  "llm",
+                  "prompting",
+                  "tree-of-thoughts",
+                  "tree-search"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -451,12 +720,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for \"Automatic Chain of Thought Prompting in Large Language Models\" (stay tuned & more will be updated)",
+                "homepage": "https://arxiv.org/abs/2210.03493",
                 "id": 545918043,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-13T12:25:02Z",
+                "open_issues": 11,
                 "owner": "amazon-science",
                 "repo": "auto-cot",
-                "stars": 2046
+                "stars": 2046,
+                "topics": [
+                  "chain-of-thought",
+                  "gpt-3",
+                  "gpt3-prompts",
+                  "gpt3-resources",
+                  "large-language-models",
+                  "prompt-engineering",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -467,12 +749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ask Me Anything language model prompting",
+                "homepage": null,
                 "id": 544156199,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-05T05:36:50Z",
+                "open_issues": 1,
                 "owner": "HazyResearch",
                 "repo": "ama_prompting",
-                "stars": 548
+                "stars": 548,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -483,12 +770,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PaL: Program-Aided Language Models (ICML 2023)",
+                "homepage": "https://reasonwithpal.com",
                 "id": 567774780,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-30T12:57:39Z",
+                "open_issues": 7,
                 "owner": "reasoning-machines",
                 "repo": "pal",
-                "stars": 526
+                "stars": 526,
+                "topics": [
+                  "commonsense-reasoning",
+                  "few-shot-learning",
+                  "language-generation",
+                  "language-model",
+                  "large-language-models",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -499,12 +798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project page for \"LOGIC-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning\"",
+                "homepage": null,
                 "id": 642121754,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-06-13T20:31:59Z",
+                "open_issues": 9,
                 "owner": "teacherpeterpan",
                 "repo": "Logic-LLM",
-                "stars": 405
+                "stars": 405,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -515,12 +819,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and Code for Program of Thoughts [TMLR 2023]",
+                "homepage": null,
                 "id": 565941671,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-15T02:23:06Z",
+                "open_issues": 3,
                 "owner": "TIGER-AI-Lab",
                 "repo": "Program-of-Thoughts",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "llm",
+                  "program",
+                  "prompting"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -531,12 +844,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions, ACL23",
+                "homepage": "https://arxiv.org/abs/2212.10509",
                 "id": 580495470,
                 "language": "Jsonnet",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-12T01:32:57Z",
+                "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "chain-of-thought",
+                  "large-language-models",
+                  "multi-step-reasoning",
+                  "multi-step-retrieval",
+                  "question-answering",
+                  "retrieval-augmented-qa"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -547,12 +872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and code for the ICLR 2023 paper \"Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning\".",
+                "homepage": null,
                 "id": 558111191,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-27T06:22:11Z",
+                "open_issues": 0,
                 "owner": "lupantech",
                 "repo": "PromptPG",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -563,12 +893,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for ACL 2023 paper: Reasoning Implicit Sentiment with Chain-of-Thought Prompting",
+                "homepage": "http://haofei.vip/THOR/",
                 "id": 642388644,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-28T14:21:54Z",
+                "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "chain-of-thought",
+                  "reasoning",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -579,12 +918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We have released the code and demo program required for LLM with self-verification",
+                "homepage": null,
                 "id": 579877931,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-18T05:50:09Z",
+                "open_issues": 0,
                 "owner": "WENGSYX",
                 "repo": "Self-Verification",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -595,12 +939,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SatLM: SATisfiability-Aided Language Models using Declarative Prompting (NeurIPS 2023)",
+                "homepage": null,
                 "id": 640737806,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-18T03:52:36Z",
+                "open_issues": 2,
                 "owner": "xiye17",
                 "repo": "SAT-LM",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -611,12 +960,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2023] Solving Math Word Problems via Cooperative Reasoning induced Language Models (LLMs + MCTS + Self-Improvement)",
+                "homepage": "https://arxiv.org/abs/2210.16257",
                 "id": 637456816,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-15T13:42:08Z",
+                "open_issues": 1,
                 "owner": "TianHongZXY",
                 "repo": "CoRe",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "acl",
+                  "acl2023",
+                  "bert",
+                  "chain-of-thought",
+                  "deberta",
+                  "gpt",
+                  "gpt-j",
+                  "gpt-j-6b",
+                  "gsm8k",
+                  "language-model",
+                  "llms",
+                  "math-word-problem",
+                  "mcts",
+                  "monte-carlo-tree-search",
+                  "nlp",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -627,12 +998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for ACL 2023 (short, findings) paper \"Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models\"",
+                "homepage": null,
                 "id": 652388811,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-13T05:17:13Z",
+                "open_issues": 0,
                 "owner": "soochan-lee",
                 "repo": "RoT",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -643,12 +1019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model\", EMNLP Findings 2023",
+                "homepage": null,
                 "id": 579099729,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-02T18:40:11Z",
+                "open_issues": 0,
                 "owner": "McGill-NLP",
                 "repo": "retriever-lm-reasoning",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -659,12 +1040,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the paper \"Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data\"",
+                "homepage": null,
                 "id": 605504619,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-24T15:37:42Z",
+                "open_issues": 1,
                 "owner": "shizhediao",
                 "repo": "automate-cot",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -682,12 +1068,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible benchmark for evaluating large language models on planning",
+                "homepage": null,
                 "id": 497184741,
                 "language": "PDDL",
+                "license": "MIT",
                 "last_commit": "2026-06-02T07:16:14Z",
+                "open_issues": 5,
                 "owner": "karthikv792",
                 "repo": "LLMs-Planning",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "benchmark-suite",
+                  "llms",
+                  "llms-benchmarking",
+                  "llms-planning",
+                  "llms-reasoning",
+                  "pddl",
+                  "planning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -698,12 +1097,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language Models of Code are Few-Shot Commonsense Learners (EMNLP 2022)",
+                "homepage": null,
                 "id": 507240498,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-20T01:55:19Z",
+                "open_issues": 2,
                 "owner": "reasoning-machines",
                 "repo": "CoCoGen",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "code-generation",
+                  "commonsense-reasoning",
+                  "few-shot-learning",
+                  "large-language-models",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -714,12 +1124,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources for Retrieval Augmentation for Commonsense Reasoning: A Unified Approach. EMNLP 2022.",
+                "homepage": null,
                 "id": 552746669,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-23T01:59:10Z",
+                "open_issues": 2,
                 "owner": "wyu97",
                 "repo": "RACo",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "commonsense-reasoning",
+                  "information-retrieval",
+                  "nlp",
+                  "nlp-machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -730,12 +1150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 563088837,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-07T22:09:29Z",
+                "open_issues": 0,
                 "owner": "sunlab-osu",
                 "repo": "IterPrompt",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -753,12 +1178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2025 🔥] Rethinking Step-by-step Visual  Reasoning in LLMs",
+                "homepage": "https://mbzuai-oryx.github.io/LlamaV-o1/",
                 "id": 914021154,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-21T22:42:02Z",
+                "open_issues": 6,
                 "owner": "mbzuai-oryx",
                 "repo": "LlamaV-o1",
-                "stars": 307
+                "stars": 307,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -769,12 +1199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embodied-Reasoner  Embodied‑Navigator",
+                "homepage": "2503.21696 / 2608.17512 ",
                 "id": 952589852,
                 "language": "Python",
+                "license": "MulanPSL-2.0",
                 "last_commit": "2026-08-22T09:53:15Z",
+                "open_issues": 8,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 227
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -785,12 +1220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 901083683,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-22T04:40:44Z",
+                "open_issues": 13,
                 "owner": "yu-rp",
                 "repo": "VisualPerceptionToken",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -808,12 +1248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning",
+                "homepage": null,
                 "id": 889750399,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-12T02:30:57Z",
+                "open_issues": 0,
                 "owner": "PKU-YuanGroup",
                 "repo": "LLaVA-CoT",
-                "stars": 2132
+                "stars": 2132,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -824,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models",
+                "homepage": null,
                 "id": 814867553,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-05T12:27:41Z",
+                "open_issues": 10,
                 "owner": "Yushi-Hu",
                 "repo": "VisualSketchpad",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -840,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2025 Highlight] Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models",
+                "homepage": null,
                 "id": 892074087,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-07T17:49:39Z",
+                "open_issues": 3,
                 "owner": "dongyh20",
                 "repo": "Insight-V",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -856,12 +1311,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 678699654,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-16T08:38:41Z",
+                "open_issues": 2,
                 "owner": "isekai-portal",
                 "repo": "Link-Context-Learning",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "cvpr2024"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -879,12 +1341,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38634
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -895,12 +1366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608555244,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-06T02:41:20Z",
+                "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000
+                "stars": 34000,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -911,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
+                "homepage": "https://arxiv.org/abs/2302.00923",
                 "id": 596424141,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-12T13:50:10Z",
+                "open_issues": 52,
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3985
+                "stars": 3985,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -927,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"ViperGPT: Visual Inference via Python Execution for Reasoning\"",
+                "homepage": null,
                 "id": 614018941,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-29T21:29:37Z",
+                "open_issues": 15,
                 "owner": "cvlab-columbia",
                 "repo": "viper",
-                "stars": 1716
+                "stars": 1716,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -943,12 +1429,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+                "homepage": "https://chameleon-llm.github.io",
                 "id": 629816595,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-23T03:36:42Z",
+                "open_issues": 8,
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1140
+                "stars": 1140,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "gpt-4",
+                  "llm",
+                  "openai",
+                  "python",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -959,12 +1458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for MM-REACT",
+                "homepage": "https://multimodal-react.github.io/",
                 "id": 614230777,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-31T21:37:28Z",
+                "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "MM-REACT",
-                "stars": 966
+                "stars": 966,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -975,12 +1479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for VisProg (CVPR 2023 Best Paper!)",
+                "homepage": null,
                 "id": 618621509,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-26T10:00:38Z",
+                "open_issues": 17,
                 "owner": "allenai",
                 "repo": "visprog",
-                "stars": 773
+                "stars": 773,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -998,12 +1507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 848189443,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-12T08:26:02Z",
+                "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1425
+                "stars": 1425,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -1014,12 +1528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper \"S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning\"",
+                "homepage": null,
                 "id": 934948493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-22T14:25:08Z",
+                "open_issues": 2,
                 "owner": "NineAbyss",
                 "repo": "S2R",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -1030,12 +1549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2025] Official code for ''Learning to Reason from Feedback at Test-Time''.",
+                "homepage": "https://arxiv.org/abs/2502.15771",
                 "id": 931387541,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-16T04:12:31Z",
+                "open_issues": 0,
                 "owner": "LaVi-Lab",
                 "repo": "FTTT",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -1053,12 +1577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large Language Models Are Reasoning Teachers (ACL 2023)",
+                "homepage": "https://arxiv.org/abs/2212.10071",
                 "id": 580089997,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-03-07T12:53:24Z",
+                "open_issues": 3,
                 "owner": "itsnamgyu",
                 "repo": "reasoning-teacher",
-                "stars": 344
+                "stars": 344,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             },
@@ -1069,12 +1598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 665880742,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-06T11:25:17Z",
+                "open_issues": 1,
                 "owner": "hitachi-nlp",
                 "repo": "FLD",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
             }
@@ -1096,12 +1630,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "homepage": null,
             "id": 528238131,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:14:49Z",
+            "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261
+            "stars": 11262,
+            "topics": [
+              "deep-learning",
+              "deep-learning-library",
+              "image-captioning",
+              "multimodal-datasets",
+              "multimodal-deep-learning",
+              "salesforce",
+              "vision-and-language",
+              "vision-framework",
+              "vision-language-pretraining",
+              "vision-language-transformer",
+              "visual-question-anwsering"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1112,12 +1663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+            "homepage": null,
             "id": 612382241,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-04T09:40:18Z",
+            "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2775
+            "stars": 2775,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1128,12 +1684,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/",
+            "homepage": null,
             "id": 494468353,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-12-16T15:41:40Z",
+            "open_issues": 15,
             "owner": "OpenBioLink",
             "repo": "ThoughtSource",
-            "stars": 1015
+            "stars": 1015,
+            "topics": [
+              "dataset",
+              "machine-learning",
+              "natural-language-processing",
+              "question-answering",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1144,12 +1711,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks",
+            "homepage": null,
             "id": 613456719,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-11T07:34:23Z",
+            "open_issues": 7,
             "owner": "jina-ai",
             "repo": "agentchain",
-            "stars": 611
+            "stars": 611,
+            "topics": [
+              "artificial-intelligence",
+              "blip",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "multimodal",
+              "nlproc",
+              "stable-diffusion",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1160,12 +1742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).",
+            "homepage": null,
             "id": 729373183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-25T16:23:28Z",
+            "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "RAM",
-            "stars": 382
+            "stars": 382,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1176,12 +1763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.",
+            "homepage": null,
             "id": 513395585,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T23:35:19Z",
+            "open_issues": 2,
             "owner": "google-research",
             "repo": "cascades",
-            "stars": 225
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1192,12 +1784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LogiTorch is a PyTorch-based library for logical reasoning on natural language",
+            "homepage": "https://logitorch.ai",
             "id": 395025860,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-10T12:55:42Z",
+            "open_issues": 0,
             "owner": "LogiTorch",
             "repo": "logitorch",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         }
@@ -1214,12 +1811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-LLM: a curated list of Large Language Model",
+            "homepage": null,
             "id": 603049672,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
+            "open_issues": 443,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27293
+            "stars": 27298,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1230,12 +1832,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A trend starts from \"Chain of Thought Prompting Elicits Reasoning in Large Language Models\".",
+            "homepage": null,
             "id": 478392650,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-05T04:47:20Z",
+            "open_issues": 0,
             "owner": "Timothyxxx",
             "repo": "Chain-of-ThoughtsPapers",
-            "stars": 2104
+            "stars": 2104,
+            "topics": [
+              "chain-of-thought",
+              "codex",
+              "gpt-3",
+              "in-context-learning",
+              "large-language-models",
+              "palm",
+              "prompt-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1246,12 +1861,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2023] Reasoning with Language Model Prompting: A Survey",
+            "homepage": null,
             "id": 536490220,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-21T06:44:22Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1006
+            "stars": 1006,
+            "topics": [
+              "arithmetic-reasoning",
+              "artificial-intelligence",
+              "awsome-list",
+              "chain-of-thought",
+              "chatgpt",
+              "commonsense-reasoning",
+              "datasets",
+              "gpt-3",
+              "language-models",
+              "large-language-models",
+              "llm",
+              "logical-reasoning",
+              "natural-language-processing",
+              "nlp",
+              "paper-list",
+              "prompt",
+              "prompt-engineering",
+              "reasoning",
+              "survey",
+              "symbolic-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1262,12 +1903,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a collection of papers and resources on Reasoning in Large Language Models.",
+            "homepage": null,
             "id": 580204419,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-13T08:44:02Z",
+            "open_issues": 6,
             "owner": "jeffhj",
             "repo": "LM-reasoning",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "artificial-intelligence",
+              "awesome-list",
+              "chain-of-thought",
+              "chatgpt",
+              "deductive-reasoning",
+              "gpt-3",
+              "human-intelligence",
+              "in-context-learning",
+              "language-modeling",
+              "language-models",
+              "large-language-models",
+              "llm",
+              "natural-language-processing",
+              "paper-list",
+              "prompt-engineering",
+              "prompt-learning",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1278,12 +1942,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers and resources on Controllable Generation using Diffusion Models, including ControlNet, DreamBooth, IP-Adapter.",
+            "homepage": null,
             "id": 618260768,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-24T07:38:20Z",
+            "open_issues": 3,
             "owner": "atfortes",
             "repo": "Awesome-Controllable-Diffusion",
-            "stars": 505
+            "stars": 505,
+            "topics": [
+              "controlnet",
+              "customization",
+              "dall-e",
+              "diffusion-models",
+              "dreambooth",
+              "flux",
+              "generative-art",
+              "image-synthesis",
+              "ip-adapter",
+              "latent-diffusion",
+              "midjourney",
+              "multi-concept",
+              "papers",
+              "personalization",
+              "stable-diffusion",
+              "stable-diffusion-webui",
+              "style-transfer",
+              "subject-driven-generation",
+              "t2i-adapter",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1294,12 +1984,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Reasoning, planning and any other topics connecting deep learning and reasoning",
+            "homepage": null,
             "id": 243531763,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-05-30T04:26:16Z",
+            "open_issues": 3,
             "owner": "floodsung",
             "repo": "Deep-Reasoning-Papers",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "logical-reasoning",
+              "modularity",
+              "neural-symbolic-reasoning",
+              "physical-reasoning",
+              "planning",
+              "visual-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1310,12 +2012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "paper list on reasoning in NLP",
+            "homepage": null,
             "id": 534238820,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-07T12:30:09Z",
+            "open_issues": 0,
             "owner": "FreedomIntelligence",
             "repo": "ReasoningNLP",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         },
@@ -1326,12 +2033,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome LLM Self-Consistency: a curated list of Self-consistency in Large Language Models",
+            "homepage": "https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency",
             "id": 702183597,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-20T15:59:04Z",
+            "open_issues": 0,
             "owner": "SuperBruceJia",
             "repo": "Awesome-LLM-Self-Consistency",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "chain-of-thought",
+              "chatgpt",
+              "compositional-consistency",
+              "factual-consistency",
+              "gpt-3",
+              "gpt-4",
+              "hypothetical-consistency",
+              "llms",
+              "llms-reasoning",
+              "logical-consistency",
+              "pretrained-language-model",
+              "reasoning",
+              "self-consistency",
+              "self-consistency-benchmark",
+              "self-consistency-learning",
+              "self-consistent-generation",
+              "semantics",
+              "semantics-consistency",
+              "semantics-preserving"
+            ]
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
         }
@@ -1340,15 +2072,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:17:15.268Z",
+    "last_updated": "2026-08-29T03:50:46.254Z",
     "original_repository_info": {
       "archived": false,
+      "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
+      "homepage": null,
       "id": 562071276,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-20T00:57:27Z",
+      "open_issues": 26,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3676
+      "stars": 3677,
+      "topics": [
+        "awesome",
+        "chain-of-thought",
+        "chatgpt",
+        "cot",
+        "deepseek",
+        "deepseek-r1",
+        "gpt",
+        "gpt-4o",
+        "in-context-learning",
+        "language-models",
+        "mllm",
+        "multimodal",
+        "openai-o1",
+        "papers",
+        "prompt",
+        "prompt-engineering",
+        "reasoning",
+        "strawberry"
+      ]
     },
     "original_repository_sha": "e01b133c3063bbd1ff2681591ba00b8f1730016a",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Reasoning",
