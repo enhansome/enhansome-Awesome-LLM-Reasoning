@@ -175,10 +175,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-05-21T06:44:22Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "Prompt4ReasoningPapers",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "arithmetic-reasoning",
                   "artificial-intelligence",
@@ -398,10 +398,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 34,
+                "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92037,
+                "stars": 92038,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -729,7 +729,7 @@
                 "open_issues": 11,
                 "owner": "amazon-science",
                 "repo": "auto-cot",
-                "stars": 2046,
+                "stars": 2047,
                 "topics": [
                   "chain-of-thought",
                   "gpt-3",
@@ -1350,7 +1350,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38651,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000,
+                "stars": 33999,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1516,7 +1516,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1425,
+                "stars": 1424,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2775,
+            "stars": 2776,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1820,7 +1820,7 @@
             "open_issues": 443,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27298,
+            "stars": 27303,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1867,10 +1867,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-05-21T06:44:22Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1006,
+            "stars": 1007,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:41.338Z",
+    "last_updated": "2026-08-30T00:38:34.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2081,7 +2081,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-20T00:57:27Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
       "stars": 3678,
