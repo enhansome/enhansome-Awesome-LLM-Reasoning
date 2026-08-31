@@ -175,7 +175,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-05-21T06:44:22Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "Prompt4ReasoningPapers",
                 "stars": 1007,
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6056,
+                "stars": 6057,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1208,7 +1208,7 @@
                 "open_issues": 8,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38651,
+                "stars": 38656,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33999,
+                "stars": 33996,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1516,7 +1516,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1424,
+                "stars": 1425,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11262,
+            "stars": 11261,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1820,7 +1820,7 @@
             "open_issues": 443,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27303,
+            "stars": 27304,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1867,7 +1867,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-05-21T06:44:22Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
             "stars": 1007,
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:38:34.408Z",
+    "last_updated": "2026-08-31T00:48:17.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 27,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3678,
+      "stars": 3679,
       "topics": [
         "awesome",
         "chain-of-thought",
