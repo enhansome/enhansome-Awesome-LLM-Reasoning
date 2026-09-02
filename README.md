@@ -253,7 +253,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Jiaan Wang, Fandong Meng, Yunlong Liang, Jie Zhou.* Preprint'24
 
-6. **[LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.](https://arxiv.org/abs/2403.11552)** \[[code](https://github.com/AssassinWS/LLM-TAMP) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2024-05-30]
+6. **[LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.](https://arxiv.org/abs/2403.11552)** \[[code](https://github.com/AssassinWS/LLM-TAMP) ⭐ 99 | 🐛 0 | 🌐 Python | 📅 2024-05-30]
 
    *Shu Wang, Muzhi Han, Ziyuan Jiao, Zeyu Zhang, Ying Nian Wu, Song-Chun Zhu, Hangxin Liu.* IROS'24
 
@@ -261,7 +261,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* EACL'24
 
-8. **[Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model.](https://arxiv.org/abs/2410.03136)** \[[code](https://github.com/xiongsiheng/SWAP) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-08-31]
+8. **[Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model.](https://arxiv.org/abs/2410.03136)** \[[code](https://github.com/xiongsiheng/SWAP) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-09-01]
 
    *Siheng Xiong, Ali Payani, Yuan Yang, Faramarz Fekri.* Preprint'24
 
@@ -554,7 +554,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25
 
-2. **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** [\[project\]](https://embodied-reasoner.github.io/)\[[code](https://github.com/zwq2018/embodied_reasoner) ⭐ 232 | 🐛 8 | 🌐 Python | 📅 2026-08-22]\[[dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)]
+2. **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** [\[project\]](https://embodied-reasoner.github.io/)\[[code](https://github.com/zwq2018/embodied_reasoner) ⭐ 235 | 🐛 8 | 🌐 Python | 📅 2026-08-22]\[[dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)]
    *Wenqi Zhang, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang.* Preprint'25
 
 3. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** \[[code](https://github.com/yu-rp/VisualPerceptionToken) ⭐ 136 | 🐛 13 | 🌐 Python | 📅 2025-03-22] \[[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] \[[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]
@@ -567,7 +567,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan.* Preprint'24
 
-2. **[Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models.](https://arxiv.org/abs/2406.09403)** \[[project](https://visualsketchpad.github.io/)] \[[code](https://github.com/Yushi-Hu/VisualSketchpad) ⭐ 291 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-08-05]
+2. **[Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models.](https://arxiv.org/abs/2406.09403)** \[[project](https://visualsketchpad.github.io/)] \[[code](https://github.com/Yushi-Hu/VisualSketchpad) ⭐ 292 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-08-05]
 
    *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna.* Preprint'24
 
@@ -593,11 +593,11 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2023
 
-1. **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.](https://arxiv.org/abs/2204.00598)** \[[project](https://socraticmodels.github.io/)] \[[code](https://github.com/google-research/google-research/tree/master/socraticmodels) ⭐ 38,661 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31]
+1. **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.](https://arxiv.org/abs/2204.00598)** \[[project](https://socraticmodels.github.io/)] \[[code](https://github.com/google-research/google-research/tree/master/socraticmodels) ⭐ 38,672 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31]
 
    *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence.* ICLR'23
 
-2. **[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671)** \[[code](https://github.com/microsoft/visual-chatgpt) ⭐ 33,996 | 🐛 261 | 🌐 Python | 📅 2024-01-06]
+2. **[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671)** \[[code](https://github.com/microsoft/visual-chatgpt) ⭐ 33,993 | 🐛 261 | 🌐 Python | 📅 2024-01-06]
 
    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* Preprint'23
 
@@ -747,4 +747,4 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

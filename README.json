@@ -542,7 +542,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-30T08:15:03Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "AssassinWS",
                 "repo": "LLM-TAMP",
                 "stars": 99,
@@ -590,7 +590,7 @@
                 "id": 862721410,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T18:12:09Z",
+                "last_commit": "2026-09-01T05:10:42Z",
                 "open_issues": 0,
                 "owner": "xiongsiheng",
                 "repo": "SWAP",
@@ -1208,7 +1208,7 @@
                 "open_issues": 8,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 232,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 10,
                 "owner": "Yushi-Hu",
                 "repo": "VisualSketchpad",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38661,
+                "stars": 38672,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33996,
+                "stars": 33993,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:23:00.111Z",
+    "last_updated": "2026-09-02T00:29:51.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 27,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3680,
+      "stars": 3681,
       "topics": [
         "awesome",
         "chain-of-thought",
