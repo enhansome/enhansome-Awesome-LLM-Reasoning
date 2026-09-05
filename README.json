@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1024,
+                "stars": 1025,
                 "topics": [
                   "chain-of-thought",
                   "cot",
@@ -398,10 +398,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92027,
+                "stars": 92023,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6060,
+                "stars": 6061,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1350,7 +1350,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38691,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33994,
+                "stars": 33990,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 446,
+            "open_issues": 448,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27320,
+            "stars": 27322,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:20:25.024Z",
+    "last_updated": "2026-09-05T00:21:18.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
