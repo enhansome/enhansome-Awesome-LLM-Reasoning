@@ -401,7 +401,7 @@
                 "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92016,
+                "stars": 92007,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -429,7 +429,7 @@
                 "open_issues": 10,
                 "owner": "ATH-MaaS",
                 "repo": "Marco-o1",
-                "stars": 1538,
+                "stars": 1537,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1208,7 +1208,7 @@
                 "open_issues": 9,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1229,7 +1229,7 @@
                 "open_issues": 13,
                 "owner": "yu-rp",
                 "repo": "VisualPerceptionToken",
-                "stars": 136,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T08:28:07Z",
+                "last_commit": "2026-09-07T16:12:34Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38699,
+                "stars": 38709,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33987,
+                "stars": 33986,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261,
+            "stars": 11262,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1720,7 +1720,7 @@
             "open_issues": 7,
             "owner": "jina-ai",
             "repo": "agentchain",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "artificial-intelligence",
               "blip",
@@ -1820,7 +1820,7 @@
             "open_issues": 449,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27326,
+            "stars": 27335,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:18:49.236Z",
+    "last_updated": "2026-09-08T00:39:12.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
