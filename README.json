@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "IAAR-Shanghai",
                 "repo": "ICSFSurvey",
-                "stars": 173,
+                "stars": 172,
                 "topics": [
                   "attention-head",
                   "chain-of-thought",
@@ -401,7 +401,7 @@
                 "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91998,
+                "stars": 91994,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6063,
+                "stars": 6064,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -729,7 +729,7 @@
                 "open_issues": 11,
                 "owner": "amazon-science",
                 "repo": "auto-cot",
-                "stars": 2050,
+                "stars": 2051,
                 "topics": [
                   "chain-of-thought",
                   "gpt-3",
@@ -779,7 +779,7 @@
                 "open_issues": 7,
                 "owner": "reasoning-machines",
                 "repo": "pal",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "commonsense-reasoning",
                   "few-shot-learning",
@@ -1350,7 +1350,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38738,
+                "stars": 38742,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33985,
+                "stars": 33984,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 52,
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3984,
+                "stars": 3983,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1488,7 +1488,7 @@
                 "open_issues": 17,
                 "owner": "allenai",
                 "repo": "visprog",
-                "stars": 774,
+                "stars": 775,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11263,
+            "stars": 11266,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2775,
+            "stars": 2776,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1693,7 +1693,7 @@
             "open_issues": 15,
             "owner": "OpenBioLink",
             "repo": "ThoughtSource",
-            "stars": 1015,
+            "stars": 1016,
             "topics": [
               "dataset",
               "machine-learning",
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 451,
+            "open_issues": 453,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27356,
+            "stars": 27362,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:35:14.691Z",
+    "last_updated": "2026-09-13T00:15:05.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
