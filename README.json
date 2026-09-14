@@ -401,7 +401,7 @@
                 "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91994,
+                "stars": 91989,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 0,
                 "owner": "PKU-YuanGroup",
                 "repo": "LLaVA-CoT",
-                "stars": 2132,
+                "stars": 2130,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38742,
+                "stars": 38750,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33984,
+                "stars": 33983,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 453,
+            "open_issues": 456,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27362,
+            "stars": 27367,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:15:05.983Z",
+    "last_updated": "2026-09-14T00:22:40.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
