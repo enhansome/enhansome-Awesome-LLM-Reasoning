@@ -94,7 +94,7 @@
                 "open_issues": 4,
                 "owner": "IAAR-Shanghai",
                 "repo": "Awesome-Attention-Heads",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "attention-head-mining",
                   "attention-mechanism",
@@ -401,7 +401,7 @@
                 "open_issues": 34,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91981,
+                "stars": 91983,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -615,7 +615,7 @@
                 "open_issues": 0,
                 "owner": "anthropics",
                 "repo": "DecompositionFaithfulnessPaper",
-                "stars": 32,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6069,
+                "stars": 6068,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1350,7 +1350,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38785,
+                "stars": 38789,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1516,7 +1516,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1426,
+                "stars": 1427,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1629,17 +1629,17 @@
           "description": "One-stop Library for Language-Vision Intelligence.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
             "homepage": null,
             "id": 528238131,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-06-02T18:14:49Z",
+            "last_commit": "2026-09-18T09:59:39Z",
             "open_issues": 500,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11265,
+            "stars": 11267,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2776,
+            "stars": 2775,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1820,7 +1820,7 @@
             "open_issues": 459,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27400,
+            "stars": 27406,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1841,7 +1841,7 @@
             "open_issues": 0,
             "owner": "Timothyxxx",
             "repo": "Chain-of-ThoughtsPapers",
-            "stars": 2106,
+            "stars": 2105,
             "topics": [
               "chain-of-thought",
               "codex",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:45:03.578Z",
+    "last_updated": "2026-09-19T00:35:53.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
