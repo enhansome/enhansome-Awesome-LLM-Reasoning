@@ -401,7 +401,7 @@
                 "open_issues": 39,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91968,
+                "stars": 91963,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -807,7 +807,7 @@
                 "open_issues": 9,
                 "owner": "teacherpeterpan",
                 "repo": "Logic-LLM",
-                "stars": 412,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38834,
+                "stars": 38832,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1747,11 +1747,11 @@
             "id": 729373183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-25T16:23:28Z",
+            "last_commit": "2026-09-26T23:57:01Z",
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "RAM",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 466,
+            "open_issues": 465,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27424,
+            "stars": 27425,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1951,7 +1951,7 @@
             "open_issues": 3,
             "owner": "atfortes",
             "repo": "Awesome-Controllable-Diffusion",
-            "stars": 505,
+            "stars": 504,
             "topics": [
               "controlnet",
               "customization",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:50:37.226Z",
+    "last_updated": "2026-09-27T00:50:32.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
