@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.",
-              "description": "[code]",
+              "description": "yaotingwangofficial/Awesome-MCoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -45,7 +45,7 @@
             {
               "node_type": "item",
               "title": "Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation.",
-              "description": "[code]",
+              "description": "SeekingDream/Static-to-Dynamic-LLMEval",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -81,7 +81,7 @@
             {
               "node_type": "item",
               "title": "Attention Heads of Large Language Models: A Survey.",
-              "description": "[code]",
+              "description": "IAAR-Shanghai/Awesome-Attention-Heads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "Internal Consistency and Self-Feedback in Large Language Models: A Survey.",
-              "description": "[code]",
+              "description": "IAAR-Shanghai/ICSFSurvey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -165,7 +165,7 @@
             {
               "node_type": "item",
               "title": "Reasoning with Language Model Prompting: A Survey.",
-              "description": "[code]",
+              "description": "zjunlp/Prompt4ReasoningPapers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
             {
               "node_type": "item",
               "title": "Towards Reasoning in Large Language Models: A Survey.",
-              "description": "[code]",
+              "description": "jeffhj/LM-reasoning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "Are Your LLMs Capable of Stable Reasoning?",
-              "description": "[code]",
+              "description": "open-compass/GPassK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,7 +283,7 @@
             {
               "node_type": "item",
               "title": "A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners.",
-              "description": "[code]",
+              "description": "bowen-upenn/llm_token_bias",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -318,7 +318,7 @@
             {
               "node_type": "item",
               "title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them.",
-              "description": "[code]",
+              "description": "suzgunmirac/BIG-Bench-Hard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -339,7 +339,7 @@
             {
               "node_type": "item",
               "title": "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters.",
-              "description": "[code]",
+              "description": "sunlab-osu/Understanding-CoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -360,7 +360,7 @@
             {
               "node_type": "item",
               "title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting.",
-              "description": "[code]",
+              "description": "milesaturpin/cot-unfaithfulness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,7 +388,7 @@
             {
               "node_type": "item",
               "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.",
-              "description": "[project]",
+              "description": "deepseek-ai/DeepSeek-R1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
                 "open_issues": 40,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91942,
+                "stars": 91941,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -437,7 +437,7 @@
             {
               "node_type": "item",
               "title": "HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs",
-              "description": "[code]",
+              "description": "FreedomIntelligence/HuatuoGPT-o1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -458,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models.",
-              "description": "[code]",
+              "description": "YangLing0818/buffer-of-thought-llm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -484,7 +484,7 @@
             {
               "node_type": "item",
               "title": "Active Prompting with Chain-of-Thought for Large Language Models.",
-              "description": "[code]",
+              "description": "shizhediao/active-prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -505,7 +505,7 @@
             {
               "node_type": "item",
               "title": "DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.",
-              "description": "[code]",
+              "description": "krystalan/DRT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -532,7 +532,7 @@
             {
               "node_type": "item",
               "title": "LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.",
-              "description": "[code]",
+              "description": "AssassinWS/LLM-TAMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -581,7 +581,7 @@
             {
               "node_type": "item",
               "title": "Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model.",
-              "description": "[code]",
+              "description": "xiongsiheng/SWAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -602,7 +602,7 @@
             {
               "node_type": "item",
               "title": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning.",
-              "description": "[code]",
+              "description": "anthropics/DecompositionFaithfulnessPaper",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -623,7 +623,7 @@
             {
               "node_type": "item",
               "title": "DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning.",
-              "description": "[code]",
+              "description": "ChengpengLi1003/DotaMath",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -644,7 +644,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic.",
-              "description": "[code]",
+              "description": "xf-zhao/LoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +689,7 @@
             {
               "node_type": "item",
               "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models.",
-              "description": "[code]",
+              "description": "princeton-nlp/tree-of-thought-llm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -716,7 +716,7 @@
             {
               "node_type": "item",
               "title": "Automatic Chain of Thought Prompting in Large Language Models.",
-              "description": "[code]",
+              "description": "amazon-science/auto-cot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -745,7 +745,7 @@
             {
               "node_type": "item",
               "title": "Ask Me Anything: A simple strategy for prompting language models.",
-              "description": "[code]",
+              "description": "HazyResearch/ama_prompting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -794,7 +794,7 @@
             {
               "node_type": "item",
               "title": "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning.",
-              "description": "[code]",
+              "description": "teacherpeterpan/Logic-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -815,7 +815,7 @@
             {
               "node_type": "item",
               "title": "Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.",
-              "description": "[code]",
+              "description": "TIGER-AI-Lab/Program-of-Thoughts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -840,7 +840,7 @@
             {
               "node_type": "item",
               "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions.",
-              "description": "[code]",
+              "description": "StonyBrookNLP/ircot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -889,7 +889,7 @@
             {
               "node_type": "item",
               "title": "Reasoning Implicit Sentiment with Chain-of-Thought Prompting.",
-              "description": "[code]",
+              "description": "scofield7419/THOR-ISA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -914,7 +914,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models are Reasoners with Self-Verification.",
-              "description": "[code]",
+              "description": "WENGSYX/Self-Verification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -935,7 +935,7 @@
             {
               "node_type": "item",
               "title": "SatLM: Satisfiability-Aided Language Models Using Declarative Prompting.",
-              "description": "[code]",
+              "description": "xiye17/SAT-LM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -956,7 +956,7 @@
             {
               "node_type": "item",
               "title": "Solving Math Word Problems via Cooperative Reasoning induced Language Models.",
-              "description": "[code]",
+              "description": "TianHongZXY/CoRe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1015,7 +1015,7 @@
             {
               "node_type": "item",
               "title": "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model.",
-              "description": "[code]",
+              "description": "McGill-NLP/retriever-lm-reasoning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +1036,7 @@
             {
               "node_type": "item",
               "title": "Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.",
-              "description": "[code]",
+              "description": "shizhediao/automate-cot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1064,7 +1064,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models Still Can't Plan.",
-              "description": "[code]",
+              "description": "karthikv792/LLMs-Planning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1093,7 +1093,7 @@
             {
               "node_type": "item",
               "title": "Language Models of Code are Few-Shot Commonsense Learners.",
-              "description": "[code]",
+              "description": "reasoning-machines/CoCoGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Retrieval Augmentation for Commonsense Reasoning: A Unified Approach.",
-              "description": "[code]",
+              "description": "wyu97/RACo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1146,7 +1146,7 @@
             {
               "node_type": "item",
               "title": "Iteratively Prompt Pre-trained Language Models for Chain of Thought.",
-              "description": "[code]",
+              "description": "sunlab-osu/IterPrompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1307,7 +1307,7 @@
             {
               "node_type": "item",
               "title": "Link-Context Learning for Multimodal LLMs.",
-              "description": "[code]",
+              "description": "isekai-portal/Link-Context-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1362,7 +1362,7 @@
             {
               "node_type": "item",
               "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.",
-              "description": "[code]",
+              "description": "chenfei-wu/TaskMatrix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1383,7 +1383,7 @@
             {
               "node_type": "item",
               "title": "Multimodal Chain-of-Thought Reasoning in Language Models.",
-              "description": "[code]",
+              "description": "amazon-science/mm-cot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1503,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking.",
-              "description": "[code]",
+              "description": "microsoft/rStar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning.",
-              "description": "[code]",
+              "description": "NineAbyss/S2R",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "Learning to Reason from Feedback at Test-Time.",
-              "description": "[code]",
+              "description": "LaVi-Lab/FTTT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1573,7 +1573,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models Are Reasoning Teachers.",
-              "description": "[code]",
+              "description": "itsnamgyu/reasoning-teacher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1594,7 +1594,7 @@
             {
               "node_type": "item",
               "title": "Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.",
-              "description": "[code]",
+              "description": "hitachi-nlp/FLD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:23:40.050Z",
+    "last_updated": "2026-10-03T04:27:27.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2081,10 +2081,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-20T00:57:27Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3691,
+      "stars": 3692,
       "topics": [
         "awesome",
         "chain-of-thought",
