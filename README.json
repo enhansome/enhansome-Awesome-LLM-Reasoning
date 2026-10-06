@@ -94,7 +94,7 @@
                 "open_issues": 4,
                 "owner": "IAAR-Shanghai",
                 "repo": "Awesome-Attention-Heads",
-                "stars": 416,
+                "stars": 415,
                 "topics": [
                   "attention-head-mining",
                   "attention-mechanism",
@@ -401,7 +401,7 @@
                 "open_issues": 41,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91935,
+                "stars": 91926,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -429,7 +429,7 @@
                 "open_issues": 10,
                 "owner": "ATH-MaaS",
                 "repo": "Marco-o1",
-                "stars": 1538,
+                "stars": 1537,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -450,7 +450,7 @@
                 "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 0,
                 "owner": "PKU-YuanGroup",
                 "repo": "LLaVA-CoT",
-                "stars": 2131,
+                "stars": 2130,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1320,7 +1320,7 @@
                 "open_issues": 2,
                 "owner": "isekai-portal",
                 "repo": "Link-Context-Learning",
-                "stars": 101,
+                "stars": 100,
                 "topics": [
                   "cvpr2024"
                 ]
@@ -1350,7 +1350,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33972,
+                "stars": 33971,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 52,
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3979,
+                "stars": 3978,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 500,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261,
+            "stars": 11262,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2776,
+            "stars": 2775,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1747,7 +1747,7 @@
             "id": 729373183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:04:15Z",
+            "last_commit": "2026-10-06T01:22:39Z",
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "RAM",
@@ -1772,7 +1772,7 @@
             "open_issues": 3,
             "owner": "google-research",
             "repo": "cascades",
-            "stars": 226,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:14:01.081Z",
+    "last_updated": "2026-10-06T02:28:48.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
