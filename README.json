@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1028,
+                "stars": 1029,
                 "topics": [
                   "chain-of-thought",
                   "cot",
@@ -94,7 +94,7 @@
                 "open_issues": 4,
                 "owner": "IAAR-Shanghai",
                 "repo": "Awesome-Attention-Heads",
-                "stars": 415,
+                "stars": 414,
                 "topics": [
                   "attention-head-mining",
                   "attention-mechanism",
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "Prompt4ReasoningPapers",
-                "stars": 1008,
+                "stars": 1009,
                 "topics": [
                   "arithmetic-reasoning",
                   "artificial-intelligence",
@@ -401,7 +401,7 @@
                 "open_issues": 42,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91917,
+                "stars": 91903,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -450,7 +450,7 @@
                 "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1361,
+                "stars": 1362,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6076,
+                "stars": 6078,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1204,11 +1204,11 @@
                 "id": 952589852,
                 "language": "Python",
                 "license": "MulanPSL-2.0",
-                "last_commit": "2026-09-25T04:32:52Z",
+                "last_commit": "2026-10-09T17:16:59Z",
                 "open_issues": 9,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 253,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T17:38:14Z",
-                "open_issues": 1997,
+                "last_commit": "2026-10-09T17:22:43Z",
+                "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38884,
+                "stars": 38887,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33962,
+                "stars": 33957,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 500,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11259,
+            "stars": 11258,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1693,7 +1693,7 @@
             "open_issues": 15,
             "owner": "OpenBioLink",
             "repo": "ThoughtSource",
-            "stars": 1016,
+            "stars": 1017,
             "topics": [
               "dataset",
               "machine-learning",
@@ -1772,7 +1772,7 @@
             "open_issues": 3,
             "owner": "google-research",
             "repo": "cascades",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1820,7 +1820,7 @@
             "open_issues": 471,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27447,
+            "stars": 27449,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1870,7 +1870,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:32:06.261Z",
+    "last_updated": "2026-10-10T01:53:52.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 27,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3695,
+      "stars": 3694,
       "topics": [
         "awesome",
         "chain-of-thought",
