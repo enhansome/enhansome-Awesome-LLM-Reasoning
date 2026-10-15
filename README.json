@@ -398,10 +398,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91897,
+                "stars": 91889,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -450,7 +450,7 @@
                 "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1208,7 +1208,7 @@
                 "open_issues": 9,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 257,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 10,
                 "owner": "Yushi-Hu",
                 "repo": "VisualSketchpad",
-                "stars": 294,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T21:40:54Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38909,
+                "stars": 38915,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33955,
+                "stars": 33956,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 52,
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3979,
+                "stars": 3980,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1772,7 +1772,7 @@
             "open_issues": 3,
             "owner": "google-research",
             "repo": "cascades",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 473,
+            "open_issues": 474,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27448,
+            "stars": 27447,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:21:51.453Z",
+    "last_updated": "2026-10-15T00:48:44.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 27,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3694,
+      "stars": 3695,
       "topics": [
         "awesome",
         "chain-of-thought",
