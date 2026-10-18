@@ -401,7 +401,7 @@
                 "open_issues": 44,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91888,
+                "stars": 91892,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -853,7 +853,7 @@
                 "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "chain-of-thought",
                   "large-language-models",
@@ -1350,7 +1350,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38927,
+                "stars": 38931,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33953,
+                "stars": 33952,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1516,7 +1516,7 @@
                 "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1636,10 +1636,10 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-18T09:59:39Z",
-            "open_issues": 500,
+            "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11258,
+            "stars": 11257,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1693,7 +1693,7 @@
             "open_issues": 15,
             "owner": "OpenBioLink",
             "repo": "ThoughtSource",
-            "stars": 1017,
+            "stars": 1018,
             "topics": [
               "dataset",
               "machine-learning",
@@ -1751,7 +1751,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "RAM",
-            "stars": 393,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 479,
+            "open_issues": 480,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27442,
+            "stars": 27443,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1951,7 +1951,7 @@
             "open_issues": 3,
             "owner": "atfortes",
             "repo": "Awesome-Controllable-Diffusion",
-            "stars": 504,
+            "stars": 503,
             "topics": [
               "controlnet",
               "customization",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:44:35.332Z",
+    "last_updated": "2026-10-18T00:14:42.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 28,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3694,
+      "stars": 3695,
       "topics": [
         "awesome",
         "chain-of-thought",
