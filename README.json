@@ -401,7 +401,7 @@
                 "open_issues": 44,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91892,
+                "stars": 91893,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6077,
+                "stars": 6078,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1350,7 +1350,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38931,
+                "stars": 38947,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33952,
+                "stars": 33949,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11257,
+            "stars": 11255,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2775,
+            "stars": 2774,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 480,
+            "open_issues": 481,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27443,
+            "stars": 27444,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:14:42.903Z",
+    "last_updated": "2026-10-19T00:26:35.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
