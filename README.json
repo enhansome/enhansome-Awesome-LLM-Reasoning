@@ -128,8 +128,8 @@
                 "id": 808947743,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2024-12-07T09:28:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T01:31:12Z",
+                "open_issues": 0,
                 "owner": "IAAR-Shanghai",
                 "repo": "ICSFSurvey",
                 "stars": 172,
@@ -401,7 +401,7 @@
                 "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91950,
+                "stars": 91957,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6082,
+                "stars": 6083,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1350,7 +1350,7 @@
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39019,
+                "stars": 39025,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11256,
+            "stars": 11257,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1817,7 +1817,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 486,
+            "open_issues": 485,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
             "stars": 27450,
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:29:59.511Z",
+    "last_updated": "2026-10-26T00:41:36.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
