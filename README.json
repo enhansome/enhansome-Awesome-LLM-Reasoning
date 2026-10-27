@@ -401,7 +401,7 @@
                 "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91957,
+                "stars": 91964,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -853,7 +853,7 @@
                 "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 284,
+                "stars": 285,
                 "topics": [
                   "chain-of-thought",
                   "large-language-models",
@@ -1204,11 +1204,11 @@
                 "id": 952589852,
                 "language": "Python",
                 "license": "MulanPSL-2.0",
-                "last_commit": "2026-10-20T11:22:27Z",
+                "last_commit": "2026-10-26T21:08:17Z",
                 "open_issues": 9,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 260,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T00:00:25Z",
+                "last_commit": "2026-10-26T20:10:08Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39025,
+                "stars": 39037,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33941,
+                "stars": 33939,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1463,8 +1463,8 @@
                 "id": 614230777,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2024-01-31T21:37:28Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-26T18:03:49Z",
+                "open_issues": 22,
                 "owner": "microsoft",
                 "repo": "MM-REACT",
                 "stars": 966,
@@ -1586,7 +1586,7 @@
                 "open_issues": 3,
                 "owner": "itsnamgyu",
                 "repo": "reasoning-teacher",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1747,7 +1747,7 @@
             "id": 729373183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T02:11:43Z",
+            "last_commit": "2026-10-26T15:13:35Z",
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "RAM",
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 485,
+            "open_issues": 487,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27450,
+            "stars": 27454,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1841,7 +1841,7 @@
             "open_issues": 0,
             "owner": "Timothyxxx",
             "repo": "Chain-of-ThoughtsPapers",
-            "stars": 2104,
+            "stars": 2103,
             "topics": [
               "chain-of-thought",
               "codex",
@@ -2042,7 +2042,7 @@
             "open_issues": 0,
             "owner": "SuperBruceJia",
             "repo": "Awesome-LLM-Self-Consistency",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:41:36.912Z",
+    "last_updated": "2026-10-27T01:36:19.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 29,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3699,
+      "stars": 3700,
       "topics": [
         "awesome",
         "chain-of-thought",
