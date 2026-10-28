@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "Prompt4ReasoningPapers",
-                "stars": 1009,
+                "stars": 1010,
                 "topics": [
                   "arithmetic-reasoning",
                   "artificial-intelligence",
@@ -401,7 +401,7 @@
                 "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91964,
+                "stars": 91969,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "chain-of-thought",
                   "reasoning",
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:10:08Z",
+                "last_commit": "2026-10-27T19:38:57Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39037,
+                "stars": 39042,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33939,
+                "stars": 33938,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1417,7 +1417,7 @@
                 "open_issues": 15,
                 "owner": "cvlab-columbia",
                 "repo": "viper",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1513,10 +1513,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-12T08:26:02Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1433,
+                "stars": 1434,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 487,
+            "open_issues": 488,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27454,
+            "stars": 27459,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1870,7 +1870,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1009,
+            "stars": 1010,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:36:19.293Z",
+    "last_updated": "2026-10-28T01:38:40.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 29,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3700,
+      "stars": 3701,
       "topics": [
         "awesome",
         "chain-of-thought",
