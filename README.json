@@ -128,7 +128,7 @@
                 "id": 808947743,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-10-25T01:31:12Z",
+                "last_commit": "2026-11-02T16:11:24Z",
                 "open_issues": 0,
                 "owner": "IAAR-Shanghai",
                 "repo": "ICSFSurvey",
@@ -401,7 +401,7 @@
                 "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91993,
+                "stars": 91995,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 139,
+                "stars": 144,
                 "topics": [
                   "chain-of-thought",
                   "reasoning",
@@ -1350,7 +1350,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39089,
+                "stars": 39098,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33921,
+                "stars": 33918,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11257,
+            "stars": 11256,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 493,
+            "open_issues": 496,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27468,
+            "stars": 27473,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:46:13.681Z",
+    "last_updated": "2026-11-03T03:40:50.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 29,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3705,
+      "stars": 3706,
       "topics": [
         "awesome",
         "chain-of-thought",
