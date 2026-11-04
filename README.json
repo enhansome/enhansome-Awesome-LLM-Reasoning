@@ -94,7 +94,7 @@
                 "open_issues": 4,
                 "owner": "IAAR-Shanghai",
                 "repo": "Awesome-Attention-Heads",
-                "stars": 414,
+                "stars": 413,
                 "topics": [
                   "attention-head-mining",
                   "attention-mechanism",
@@ -132,7 +132,7 @@
                 "open_issues": 0,
                 "owner": "IAAR-Shanghai",
                 "repo": "ICSFSurvey",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "attention-head",
                   "chain-of-thought",
@@ -401,7 +401,7 @@
                 "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 91995,
+                "stars": 91996,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -471,7 +471,7 @@
                 "open_issues": 14,
                 "owner": "YangLing0818",
                 "repo": "buffer-of-thought-llm",
-                "stars": 677,
+                "stars": 678,
                 "topics": [
                   "chain-of-thought-reasoning",
                   "large-language-models",
@@ -545,7 +545,7 @@
                 "open_issues": 1,
                 "owner": "AssassinWS",
                 "repo": "LLM-TAMP",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -755,7 +755,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-07-05T05:36:50Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "HazyResearch",
                 "repo": "ama_prompting",
                 "stars": 548,
@@ -807,7 +807,7 @@
                 "open_issues": 9,
                 "owner": "teacherpeterpan",
                 "repo": "Logic-LLM",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 144,
+                "stars": 150,
                 "topics": [
                   "chain-of-thought",
                   "reasoning",
@@ -1350,7 +1350,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39098,
+                "stars": 39103,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33918,
+                "stars": 33917,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1417,7 +1417,7 @@
                 "open_issues": 15,
                 "owner": "cvlab-columbia",
                 "repo": "viper",
-                "stars": 1720,
+                "stars": 1719,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1516,7 +1516,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1433,
+                "stars": 1434,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "FranxYao",
             "repo": "chain-of-thought-hub",
-            "stars": 2773,
+            "stars": 2774,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1747,8 +1747,8 @@
             "id": 729373183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T03:05:32Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-03T19:27:28Z",
+            "open_issues": 9,
             "owner": "facebookresearch",
             "repo": "RAM",
             "stars": 397,
@@ -1820,7 +1820,7 @@
             "open_issues": 496,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27473,
+            "stars": 27474,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:40:50.307Z",
+    "last_updated": "2026-11-04T02:39:58.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 29,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3706,
+      "stars": 3707,
       "topics": [
         "awesome",
         "chain-of-thought",
