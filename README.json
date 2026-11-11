@@ -401,7 +401,7 @@
                 "open_issues": 47,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92006,
+                "stars": 92013,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -450,7 +450,7 @@
                 "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1365,
+                "stars": 1366,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6090,
+                "stars": 6089,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -881,7 +881,7 @@
                 "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 189,
+                "stars": 194,
                 "topics": [
                   "chain-of-thought",
                   "reasoning",
@@ -1208,7 +1208,7 @@
                 "open_issues": 9,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 264,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 0,
                 "owner": "PKU-YuanGroup",
                 "repo": "LLaVA-CoT",
-                "stars": 2131,
+                "stars": 2130,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39149,
+                "stars": 39152,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33901,
+                "stars": 33897,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1488,7 +1488,7 @@
                 "open_issues": 17,
                 "owner": "allenai",
                 "repo": "visprog",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1639,7 +1639,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11255,
+            "stars": 11256,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -1747,8 +1747,8 @@
             "id": 729373183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T00:23:02Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-10T23:17:19Z",
+            "open_issues": 17,
             "owner": "facebookresearch",
             "repo": "RAM",
             "stars": 396,
@@ -1820,7 +1820,7 @@
             "open_issues": 502,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27493,
+            "stars": 27497,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:17:27.955Z",
+    "last_updated": "2026-11-11T02:12:33.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 29,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3711,
+      "stars": 3713,
       "topics": [
         "awesome",
         "chain-of-thought",

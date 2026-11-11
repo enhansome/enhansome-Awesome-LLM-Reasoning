@@ -195,7 +195,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
-1. **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2501.12948)** \[[project](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,006 | 🐛 47 | 📅 2025-06-27]
+1. **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2501.12948)** \[[project](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,013 | 🐛 47 | 📅 2025-06-27]
 
    *Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z.F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, et al.* Preprint'25
 
@@ -237,7 +237,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang.* Preprint'24
 
-2. **[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925)** \[[code](https://github.com/FreedomIntelligence/HuatuoGPT-o1) ⭐ 1,365 | 🐛 27 | 🌐 Python | 📅 2025-01-20]
+2. **[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925)** \[[code](https://github.com/FreedomIntelligence/HuatuoGPT-o1) ⭐ 1,366 | 🐛 27 | 🌐 Python | 📅 2025-01-20]
 
    *Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang.* Preprint'24
 
@@ -390,7 +390,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2023
 
-1. **[Tree of Thoughts: Deliberate Problem Solving with Large Language Models.](https://arxiv.org/abs/2305.10601)** \[[code](https://github.com/ysymyth/tree-of-thought-llm) ⭐ 6,090 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
+1. **[Tree of Thoughts: Deliberate Problem Solving with Large Language Models.](https://arxiv.org/abs/2305.10601)** \[[code](https://github.com/ysymyth/tree-of-thought-llm) ⭐ 6,089 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
 
    *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* NeurIPS'23
 
@@ -418,7 +418,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal.* ACL'23
 
-8. **[Reasoning Implicit Sentiment with Chain-of-Thought Prompting.](https://arxiv.org/abs/2305.11255)** \[[code](https://github.com/scofield7419/THOR-ISA) ⭐ 189 | 🐛 3 | 🌐 Python | 📅 2023-08-28]
+8. **[Reasoning Implicit Sentiment with Chain-of-Thought Prompting.](https://arxiv.org/abs/2305.11255)** \[[code](https://github.com/scofield7419/THOR-ISA) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2023-08-28]
 
    *Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua.* ACL'23
 
@@ -554,7 +554,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25
 
-2. **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** [\[project\]](https://embodied-reasoner.github.io/)\[[code](https://github.com/zwq2018/embodied_reasoner) ⭐ 264 | 🐛 9 | 🌐 Python | 📅 2026-10-26]\[[dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)]
+2. **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** [\[project\]](https://embodied-reasoner.github.io/)\[[code](https://github.com/zwq2018/embodied_reasoner) ⭐ 267 | 🐛 9 | 🌐 Python | 📅 2026-10-26]\[[dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)]
    *Wenqi Zhang, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang.* Preprint'25
 
 3. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** \[[code](https://github.com/yu-rp/VisualPerceptionToken) ⭐ 138 | 🐛 13 | 🌐 Python | 📅 2025-03-22] \[[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] \[[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]
@@ -563,7 +563,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2024
 
-1. **[LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)** [code](https://github.com/PKU-YuanGroup/LLaVA-CoT) ⭐ 2,131 | 🐛 0 | 🌐 Python | 📅 2025-12-12 [model](https://huggingface.co/Xkev/Llama-3.2V-11B-cot)
+1. **[LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)** [code](https://github.com/PKU-YuanGroup/LLaVA-CoT) ⭐ 2,130 | 🐛 0 | 🌐 Python | 📅 2025-12-12 [model](https://huggingface.co/Xkev/Llama-3.2V-11B-cot)
 
    *Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan.* Preprint'24
 
@@ -593,11 +593,11 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2023
 
-1. **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.](https://arxiv.org/abs/2204.00598)** \[[project](https://socraticmodels.github.io/)] \[[code](https://github.com/google-research/google-research/tree/master/socraticmodels) ⭐ 39,149 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09]
+1. **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.](https://arxiv.org/abs/2204.00598)** \[[project](https://socraticmodels.github.io/)] \[[code](https://github.com/google-research/google-research/tree/master/socraticmodels) ⭐ 39,152 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-09]
 
    *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence.* ICLR'23
 
-2. **[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671)** \[[code](https://github.com/microsoft/visual-chatgpt) ⭐ 33,901 | 🐛 262 | 🌐 Python | 📅 2024-01-06]
+2. **[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671)** \[[code](https://github.com/microsoft/visual-chatgpt) ⭐ 33,897 | 🐛 262 | 🌐 Python | 📅 2024-01-06]
 
    *Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.* Preprint'23
 
@@ -617,7 +617,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
    *Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.* Preprint'23
 
-7. **[Visual Programming: Compositional Visual Reasoning without Training.](https://arxiv.org/abs/2211.11559)** \[[project](https://prior.allenai.org/projects/visprog)] \[[code](https://github.com/allenai/visprog) ⭐ 780 | 🐛 17 | 🌐 Python | 📅 2024-08-26]
+7. **[Visual Programming: Compositional Visual Reasoning without Training.](https://arxiv.org/abs/2211.11559)** \[[project](https://prior.allenai.org/projects/visprog)] \[[code](https://github.com/allenai/visprog) ⭐ 781 | 🐛 17 | 🌐 Python | 📅 2024-08-26]
 
    *Tanmay Gupta, Aniruddha Kembhavi.* CPVR'23
 
@@ -701,7 +701,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 * **[Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) ⭐ 2,778 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-08-04**  Benchmarking LLM reasoning performance with chain-of-thought prompting.
 * **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) ⭐ 1,019 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-12-16**  Central and open resource for data and tools related to chain-of-thought reasoning in large language models.
 * **[AgentChain](https://github.com/jina-ai/agentchain) ⭐ 612 | 🐛 7 | 🌐 Python | 📅 2023-04-11**  Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks.
-* **[facebookresearch/RAM](https://github.com/facebookresearch/RAM) ⭐ 396 | 🐛 16 | 🌐 Python | 📅 2026-11-10**  A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
+* **[facebookresearch/RAM](https://github.com/facebookresearch/RAM) ⭐ 396 | 🐛 17 | 🌐 Python | 📅 2026-11-10**  A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
 * **[google/Cascades](https://github.com/google-research/cascades) ⭐ 231 | 🐛 3 | 🌐 Python | 📅 2026-10-20**  Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
 * **[LogiTorch](https://github.com/LogiTorch/logitorch) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2025-10-10**  PyTorch-based library for logical reasoning on natural language.
 * **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
@@ -716,7 +716,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ## Other Awesome Lists
 
-* **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,493 | 🐛 502 | 📅 2025-07-31**  Curated list of Large Language Model.
+* **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,497 | 🐛 502 | 📅 2025-07-31**  Curated list of Large Language Model.
 * **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) ⚠️ Archived**  A trend starts from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
 * **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,010 | 🐛 0 | 📅 2025-05-21**  Repository for the paper "Reasoning with Language Model Prompting: A Survey".
 * **[LM-reasoning](https://github.com/jeffhj/LM-reasoning) ⭐ 570 | 🐛 6 | 📅 2023-11-13**  Collection of papers and resources on Reasoning in Large Language Models.
@@ -747,4 +747,4 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
