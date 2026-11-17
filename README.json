@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "yaotingwangofficial",
                 "repo": "Awesome-MCoT",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": [
                   "chain-of-thought",
                   "cot",
@@ -401,7 +401,7 @@
                 "open_issues": 46,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92029,
+                "stars": 92038,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -702,7 +702,7 @@
                 "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
-                "stars": 6090,
+                "stars": 6089,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -729,7 +729,7 @@
                 "open_issues": 11,
                 "owner": "amazon-science",
                 "repo": "auto-cot",
-                "stars": 2055,
+                "stars": 2056,
                 "topics": [
                   "chain-of-thought",
                   "gpt-3",
@@ -828,7 +828,7 @@
                 "open_issues": 3,
                 "owner": "TIGER-AI-Lab",
                 "repo": "Program-of-Thoughts",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "llm",
                   "program",
@@ -881,7 +881,7 @@
                 "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 225,
+                "stars": 228,
                 "topics": [
                   "chain-of-thought",
                   "reasoning",
@@ -927,7 +927,7 @@
                 "open_issues": 0,
                 "owner": "WENGSYX",
                 "repo": "Self-Verification",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 0,
                 "owner": "PKU-YuanGroup",
                 "repo": "LLaVA-CoT",
-                "stars": 2131,
+                "stars": 2129,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T12:36:20Z",
+                "last_commit": "2026-11-16T16:31:35Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39184,
+                "stars": 39199,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33892,
+                "stars": 33893,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1396,7 +1396,7 @@
                 "open_issues": 53,
                 "owner": "amazon-science",
                 "repo": "mm-cot",
-                "stars": 3984,
+                "stars": 3983,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1417,7 +1417,7 @@
                 "open_issues": 15,
                 "owner": "cvlab-columbia",
                 "repo": "viper",
-                "stars": 1718,
+                "stars": 1717,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1488,7 +1488,7 @@
                 "open_issues": 17,
                 "owner": "allenai",
                 "repo": "visprog",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1747,11 +1747,11 @@
             "id": 729373183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T21:52:59Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-17T01:54:38Z",
+            "open_issues": 17,
             "owner": "facebookresearch",
             "repo": "RAM",
-            "stars": 397,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 504,
+            "open_issues": 506,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27498,
+            "stars": 27503,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:22:12.788Z",
+    "last_updated": "2026-11-17T04:44:50.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 29,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3714,
+      "stars": 3715,
       "topics": [
         "awesome",
         "chain-of-thought",
