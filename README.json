@@ -331,7 +331,7 @@
                 "open_issues": 13,
                 "owner": "suzgunmirac",
                 "repo": "BIG-Bench-Hard",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -398,10 +398,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 46,
+                "open_issues": 45,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92055,
+                "stars": 92061,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -450,7 +450,7 @@
                 "open_issues": 27,
                 "owner": "FreedomIntelligence",
                 "repo": "HuatuoGPT-o1",
-                "stars": 1368,
+                "stars": 1369,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -699,7 +699,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-01-16T20:02:00Z",
-                "open_issues": 8,
+                "open_issues": 12,
                 "owner": "princeton-nlp",
                 "repo": "tree-of-thought-llm",
                 "stars": 6088,
@@ -881,7 +881,7 @@
                 "open_issues": 3,
                 "owner": "scofield7419",
                 "repo": "THOR-ISA",
-                "stars": 269,
+                "stars": 273,
                 "topics": [
                   "chain-of-thought",
                   "reasoning",
@@ -1208,7 +1208,7 @@
                 "open_issues": 9,
                 "owner": "ZJU-OmniAI",
                 "repo": "Embodied-Omni",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1346,11 +1346,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T23:54:31Z",
-                "open_issues": 2020,
+                "last_commit": "2026-11-26T08:37:24Z",
+                "open_issues": 2023,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39454,
+                "stars": 39535,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1751,7 +1751,7 @@
             "open_issues": 17,
             "owner": "facebookresearch",
             "repo": "RAM",
-            "stars": 402,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1817,10 +1817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 514,
+            "open_issues": 515,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27517,
+            "stars": 27522,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:15.268Z"
@@ -1993,7 +1993,7 @@
             "open_issues": 3,
             "owner": "floodsung",
             "repo": "Deep-Reasoning-Papers",
-            "stars": 316,
+            "stars": 315,
             "topics": [
               "logical-reasoning",
               "modularity",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:19:55.752Z",
+    "last_updated": "2026-11-27T04:29:27.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
@@ -2084,7 +2084,7 @@
       "open_issues": 30,
       "owner": "atfortes",
       "repo": "Awesome-LLM-Reasoning",
-      "stars": 3714,
+      "stars": 3715,
       "topics": [
         "awesome",
         "chain-of-thought",
